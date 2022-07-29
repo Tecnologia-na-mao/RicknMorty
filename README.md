@@ -1,3 +1,4 @@
 # RicknMorty
 Um projeto simples utilizando SwiftUI com chamada de API e utilizando o padrão MVVM  A documentação da Api encontra-se em:  https://rickandmortyapi.com/documentation
-![simulator_screenshot_4B8EDBE0-4DAF-48D6-904B-4E8388C1E003](https://user-images.githubusercontent.com/18534260/181835777-7bfbbf5d-8faa-4790-9bca-db8c98dabc72.png)
+
+![Simulator Screen Shot - iPhone 12 - 2022-07-29 at 17 10 10](https://user-images.githubusercontent.com/18534260/181836124-3274498b-2695-4617-be39-e8acfe59acc5.png)
