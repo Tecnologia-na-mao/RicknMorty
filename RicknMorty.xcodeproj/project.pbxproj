@@ -14,6 +14,9 @@
 		A4D40205289455770000CB6A /* RicknMortyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D40204289455770000CB6A /* RicknMortyTests.swift */; };
 		A4D4020F289455770000CB6A /* RicknMortyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D4020E289455770000CB6A /* RicknMortyUITests.swift */; };
 		A4D40211289455770000CB6A /* RicknMortyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D40210289455770000CB6A /* RicknMortyUITestsLaunchTests.swift */; };
+		A4D4021E289455A80000CB6A /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D4021D289455A80000CB6A /* Webservice.swift */; };
+		A4D40220289456110000CB6A /* ApiData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D4021F289456110000CB6A /* ApiData.swift */; };
+		A4D40222289459CC0000CB6A /* PostListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D40221289459CC0000CB6A /* PostListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		A4D4020A289455770000CB6A /* RicknMortyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RicknMortyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4D4020E289455770000CB6A /* RicknMortyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RicknMortyUITests.swift; sourceTree = "<group>"; };
 		A4D40210289455770000CB6A /* RicknMortyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RicknMortyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A4D4021D289455A80000CB6A /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
+		A4D4021F289456110000CB6A /* ApiData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiData.swift; sourceTree = "<group>"; };
+		A4D40221289459CC0000CB6A /* PostListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +104,9 @@
 				A4D401F5289455750000CB6A /* ContentView.swift */,
 				A4D401F7289455760000CB6A /* Assets.xcassets */,
 				A4D401F9289455760000CB6A /* Preview Content */,
+				A4D4021D289455A80000CB6A /* Webservice.swift */,
+				A4D4021F289456110000CB6A /* ApiData.swift */,
+				A4D40221289459CC0000CB6A /* PostListView.swift */,
 			);
 			path = RicknMorty;
 			sourceTree = "<group>";
@@ -257,8 +266,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4D40222289459CC0000CB6A /* PostListView.swift in Sources */,
+				A4D40220289456110000CB6A /* ApiData.swift in Sources */,
 				A4D401F6289455750000CB6A /* ContentView.swift in Sources */,
 				A4D401F4289455750000CB6A /* RicknMortyApp.swift in Sources */,
+				A4D4021E289455A80000CB6A /* Webservice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
